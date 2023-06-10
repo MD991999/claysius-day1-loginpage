@@ -86,3 +86,9 @@ a{
     cursor: pointer;
 
 }
+
+/* validation */
+
+.validateEmailError{
+    color: red;
+}
